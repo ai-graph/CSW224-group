@@ -3,6 +3,8 @@ Welcome to the group page. This is a group to learn the course of CS224W togethe
 
 我们计划学习Stanford CS224W 2019视频，但目前CS224W的视频只是部分有字幕，下面链接视频的第一节有字幕，大家可以先适应一下Jure的口音，后续就考验大家的听力水平了，不过跟着学习小组坚持两三节课程的内容，相信大家能够渐渐听得懂，如果有什么问题，欢迎在微信群以及这里提出来。
 
+===>如果你可以访问Youtube,可以看Youtube上的视频，利用Youtube上的自动语音-文字的翻译功能
+
 # 学习计划
 - 每周三以及周五晚上8:00，大家同步学习两节课程的内容
 - 对于不懂的问题，欢迎大家在issue或者微信群中提出来
