@@ -10,6 +10,6 @@ Welcome to the group page. This is a group to learn the course of CS224W togethe
 如果你有更好的计划、方案或者资料，欢迎提出
 
 # CS224W相关链接:
-源地址链接：http://snap.stanford.edu/class/cs224w-2018/info.html
-建议学习的课程链接：https://www.bilibili.com/video/av84385561?from=search&seid=6876374988659351551
-Lecture notes: https://snap-stanford.github.io/cs224w-notes/ 
+- 源地址链接：http://snap.stanford.edu/class/cs224w-2018/info.html
+- 建议学习的课程链接：https://www.bilibili.com/video/av84385561?from=search&seid=6876374988659351551
+- Lecture notes: https://snap-stanford.github.io/cs224w-notes/ 
