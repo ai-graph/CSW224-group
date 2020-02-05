@@ -13,9 +13,11 @@ Welcome to the group page. This is a group to learn the course of CS224W togethe
 
 # CS224W相关链接
 
-- 源地址链接：http://snap.stanford.edu/class/cs224w-2018/info.html
+- 源地址链接：http://snap.stanford.edu/class/cs224w-2019/index.html#resources
 - 建议学习的课程链接：https://www.bilibili.com/video/av84385561?from=search&seid=6876374988659351551
 - Lecture notes: https://snap-stanford.github.io/cs224w-notes/ 
+
+第一节课程PPT链接：http://snap.stanford.edu/class/cs224w-2019/slides/01-intro.pdf
 
 # 学习进度更新表
 
