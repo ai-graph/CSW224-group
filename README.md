@@ -6,7 +6,7 @@ Welcome to the group page. This is a group to learn the course of CS224W togethe
 ===>如果你可以访问Youtube,可以看Youtube上的视频，利用Youtube上的自动语音-文字的翻译功能
 
 # 学习计划
-- 每周三以及周五晚上8:00，大家同步学习两节课程的内容
+- 每周三以及周五晚上8:30，大家同步学习两节课程的内容
 - 对于不懂的问题，欢迎大家在issue或者微信群中提出以及分享
 
 如果你有更好的计划、方案或者资料，欢迎提出
