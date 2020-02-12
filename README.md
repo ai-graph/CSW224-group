@@ -20,6 +20,7 @@ Welcome to the group page. This is a group to learn the course of CS224W togethe
 注：youtube可以使用自带的字幕翻译功能
 
 课程PPT链接：http://snap.stanford.edu/class/cs224w-2019/slides/
+
 课程Note链接：https://snap-stanford.github.io/cs224w-notes/
 
 # 学习进度更新表
