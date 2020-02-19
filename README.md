@@ -22,10 +22,9 @@ Welcome to the group page. This is a group to learn the course of CS224W togethe
 
 # 学习进度更新表
 
-本次大概有3个学习小组，每个学习小组有20人左右，为了自我监督，请在下面的表格中对应的位置更新自己学习进度，每两周请大家自我检查一下完成的进度，没有完成任务的同学，将承担下周助教的任务：通知并督促大家学习，汇总大家的问题等。
+本次大概有40人左右，为了自我监督，请在下面的表格中对应的位置更新自己学习进度，请大家及时检查一下完成的进度，没有完成任务的同学，将承担下周助教的任务：通知并督促大家学习，汇总大家的问题，发红包等。
 
-学习进度表：https://docs.qq.com/sheet/DQXBqUk1aU0hFZUth
-每个小组在不同的sheet中，请找到对应的位置
+https://shimo.im/sheets/W3RxKd39W9qvQY6w/MODOC/ 《学习进度表》
 
 # 合作招募
 
