@@ -16,7 +16,8 @@ Welcome to the group page. This is a group to learn the course of CS224W togethe
 - 源地址链接：http://snap.stanford.edu/class/cs224w-2019/index.html#resources
 - B站课程链接：https://www.bilibili.com/video/av84385561?from=search&seid=6876374988659351551
 - Youtube链接：https://www.youtube.com/playlist?list=PLOl6V2H5_aPv9tq57agsl6s3WtRfYpS6u
-  - 注：youtube可以使用自带的字幕翻译功能
+- 原视频链接：http://snap.stanford.edu/class/cs224w-videos-2019/
+  - 注：如果听不习惯Jure口音，可以考虑youtube自带的字幕翻译功能
 - 课程PPT链接：http://snap.stanford.edu/class/cs224w-2019/slides/
 - 课程Note链接：https://snap-stanford.github.io/cs224w-notes/
 
